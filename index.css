@@ -1,0 +1,50 @@
+/* Write your code here. */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #0f172a;
+  font-family: "Roboto";
+  font-size: 30px;
+}
+
+.image {
+  height: 30px;
+  width: 30px;
+  color: #ffffff;
+  border-style: none;
+  padding-top: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.sub-container {
+  height: 60px;
+  width: 300px;
+  color: #ffffff;
+  display: flex;
+}
+
+.notification1 {
+  background-color: #0b69ff;
+  border-radius: 5px;
+}
+
+.notification2 {
+  background-color: #2dca73;
+  border-radius: 5px;
+}
+
+.notification3 {
+  background-color: #ffb800;
+  border-radius: 5px;
+}
+
+.notification4 {
+  background-color: #ff0b37;
+  border-radius: 5px;
+}
